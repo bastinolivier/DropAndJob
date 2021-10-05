@@ -1,0 +1,23 @@
+.centrage {
+    margin-top: 150px;
+    margin-left:auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    
+}
+.btn-sub {
+    color: #fff;
+    background-color: #6e7275;
+    border-color: #505053;
+    margin-top: 6px;
+} 
+.image{
+    margin-left: 25%;
+    margin-top: auto;
+    
+}
+span{
+    cursor: pointer;
+}
